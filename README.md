@@ -6,7 +6,7 @@ Sistema desktop completo de controle de ponto eletrônico desenvolvido em Python
 
 ## 📋 Sobre o Projeto
 
-Aplicação desenvolvida para o **Supermercado Mendes CRT** com o objetivo de gerenciar o registro de ponto dos funcionários de forma simples e eficiente. O sistema registra entradas, saídas e intervalos de almoço, mantendo um histórico completo que pode ser exportado em formato de cartão ponto individual ou relatório geral diário.
+Aplicação com o objetivo de gerenciar o registro de ponto dos funcionários de forma simples e eficiente. O sistema registra entradas, saídas e intervalos de almoço, mantendo um histórico completo que pode ser exportado em formato de cartão ponto individual ou relatório geral diário.
 
 ---
 
@@ -129,5 +129,4 @@ Gera um arquivo `.xlsx` com todos os funcionários e seus horários de um dia es
 ## 📌 Versão
 
 **Versão:** 2.0  
-**Última atualização:** 18/01/2026  
-**Desenvolvido para:** Supermercado Mendes CRT
+**Última atualização:** 18/01/2026
